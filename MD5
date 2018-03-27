@@ -1,0 +1,14 @@
+b65ed2cc202f1295ceefc7bf89ec89d4 *DESCRIPTION
+8709fac213db36c34b587fdfcfb2ea0b *NAMESPACE
+692c153c99a10648a470b02b9311bf33 *NEWS.md
+2fda2e955a4f0a7d9f68abddea3520cb *R/ARHT.R
+485fdba4fcc8a321c529ed3544c8faea *R/eigen_proj_1samp.R
+30a81ae8ec579fa71b9f59c76e331cee *R/eigen_proj_2samp.R
+90c6b455560243b7be43627be4668949 *R/moments_PSD.R
+5db5d903e3551b8ada46c250b7bdc38b *R/r3chisq.R
+fd64a7f503c099899e0feec0bb5fcfcf *README.md
+7a09988c65397f92b4b9a1ae1b44d09d *man/ARHT.Rd
+b3b7b9db7d14558b779a62c325336902 *man/eigen_proj_1samp.Rd
+037750b5efde4ee741f90c1ebb08bfcb *man/eigen_proj_2samp.Rd
+c55befcaffe0452d10fa25e8c19b8ab4 *man/moments_PSD.Rd
+a2a7fd8e9f82428d2fe745da6f2ae18a *man/r3chisq.Rd
